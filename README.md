@@ -1,7 +1,7 @@
 # Dracula for [eza](https://github.com/eza-community/eza)
 
 > A dark theme for [eza](https://github.com/eza-community/eza)
-<img width="1495" alt="eza" src="https://github.com/user-attachments/assets/ddc606ac-f10b-4a35-8cf8-c0ffc9035a3d">
+> <img width="1495" alt="eza" src="https://github.com/user-attachments/assets/ddc606ac-f10b-4a35-8cf8-c0ffc9035a3d">
 
 #### Usage
 
@@ -35,6 +35,7 @@ tw=35:\
 tx=36:\
 xx=95:"
 ```
+
 #### Suggested Aliases
 
 For normal or larger displays include group (`-g flag`):
@@ -53,11 +54,11 @@ alias zl='eza -laX --icons --color=always'
 
 1. in either `Command Prompt` or `PowerShell` run the following with the windows universal eza theme:
 
-	`setx EZA_WINDOWS_ATTRIBUTES "short"`
+   `setx EZA_WINDOWS_ATTRIBUTES "short"`
 
-	`setx EZA_ICONS_AUTO "always"`
+   `setx EZA_ICONS_AUTO "always"`
 
-	`setx EZA_COLORS "da=2;34:xx=95:ur=36:su=95:sf=36:pi=96"`
+   `setx EZA_COLORS "da=2;34:xx=95:ur=36:su=95:sf=36:pi=96"`
 
 2. Restart `Command Prompt` or `PowerShell`
 
@@ -75,9 +76,9 @@ function zl {
 
 This theme is maintained by the following person(s).
 
-| [![urrickhunt](https://github.com/urrickhunt.png?size=100)](https://github.com/urrickhunt)|
-| ----------------------------------------------------------------------------------------- |
-| [urrickhunt](https://github.com/urrickhunt)                                               |
+| [![urrickhunt](https://github.com/urrickhunt.png?size=100)](https://github.com/urrickhunt) |
+| ------------------------------------------------------------------------------------------ |
+| [urrickhunt](https://github.com/urrickhunt)                                                |
 
 ## Community
 

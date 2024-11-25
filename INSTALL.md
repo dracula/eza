@@ -44,6 +44,7 @@ tw=35:\
 tx=36:\
 xx=95:"
 ```
+
 #### Suggested Aliases
 
 For normal or larger displays include group (`-g flag`):
@@ -62,11 +63,11 @@ alias zl='eza -laX --icons --color=always'
 
 1. in either `Command Prompt` or `PowerShell` run the following with the windows universal eza theme:
 
-	`setx EZA_WINDOWS_ATTRIBUTES "short"`
+   `setx EZA_WINDOWS_ATTRIBUTES "short"`
 
-	`setx EZA_ICONS_AUTO "always"`
+   `setx EZA_ICONS_AUTO "always"`
 
-	`setx EZA_COLORS "da=2;34:xx=95:ur=36:su=95:sf=36:pi=96"`
+   `setx EZA_COLORS "da=2;34:xx=95:ur=36:su=95:sf=36:pi=96"`
 
 2. Restart `Command Prompt` or `PowerShell`
 
