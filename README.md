@@ -1,7 +1,8 @@
 # Dracula for [eza](https://github.com/eza-community/eza)
 
 > A dark theme for [eza](https://github.com/eza-community/eza)
-> <img width="1495" alt="eza" src="https://github.com/user-attachments/assets/ddc606ac-f10b-4a35-8cf8-c0ffc9035a3d">
+
+![Screenshot](./screenshot.png)
 
 #### Usage
 
